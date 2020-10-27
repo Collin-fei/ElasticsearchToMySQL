@@ -1,0 +1,3 @@
+# ElasticsearchToMySQL
+从es上读取数据存入Mysql数据库中
+由于字段不同需要进行一些处理
